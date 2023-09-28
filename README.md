@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <h1><img src="/static/images/icon.png" alt="App Icon" width="25" height="25"> MedAI</h1>
+  <h1><img src="/static/images/icon.png" alt="App Icon" width="25" height="25"> DermatoBot</h1>
 </div>
 
 It is a Flask application that utilizes AI algorithms to detect skin diseases and provide treatment susceptibility for patients. It offers an intelligent system that analyzes patient data and provides valuable insights for effective disease diagnosis and treatment planning.
@@ -19,8 +19,6 @@ It is a Flask application that utilizes AI algorithms to detect skin diseases an
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,github,html,js,py,tensorflow,vscode&perline=14" />
     <img/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="47" height="47" 
-      style="height:47px;width:auto;border-radius:8rem;overflow: hidden"/>
   </a>
 </p>
 
