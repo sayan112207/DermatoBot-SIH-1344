@@ -56,7 +56,7 @@ Make sure you have the following dependencies installed before running the proje
 ### Usage
 - Start the Flask development server:
    ```bash
-   python3 app.py
+   python app.py
   
 ### Open your web browser and visit the following URL:
 
